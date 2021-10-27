@@ -5,7 +5,7 @@ This repo was created for demonstrating some go lang features & constructs in th
 ## Installation
 
 - Install the [go compiler](https://golang.org/), [vs code](https://code.visualstudio.com/) & [go extension for vscode](https://marketplace.visualstudio.com/items?itemName=golang.go)
-- Clone this repo and you should be good to go!
+- Clone this repo run `go mod download` and you should be good to go!
 
 ## Some Links
 
