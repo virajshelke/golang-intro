@@ -11,3 +11,5 @@ This repo was created for demonstrating some go lang features & constructs in th
 
 Refer this [link](https://bakerhughes.sharepoint.com/:v:/s/MCBentlyevadaSoftareGuilds/EYMUtMm87JdFuopeIKpMvdMB3tk0eWPZZohbRdrAb-S8Uw?e=xav9vY) to watch the guild.
 The presention pdf can be found [here](https://bakerhughes.sharepoint.com/:b:/s/MCBentlyevadaSoftareGuilds/EauIs4--bgZBnrUuSafJpEwBixDtTAWk96IvoKXLAl6zYQ?e=VTJVpO).
+
+Some more guilds can be found [here](https://bentlypedia.bn.ge.com/display/SOF/Backend+Services).
